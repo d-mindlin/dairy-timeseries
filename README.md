@@ -1,0 +1,1 @@
+For Project Details, visit "https://d-mindlin.github.io/dairy-timeseries/" or visit "https://github.com/d-mindlin/dairy-timeseries/blob/master/dairy-analysis.Rmd" for raw code.
